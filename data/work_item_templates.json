@@ -1,0 +1,477 @@
+[
+    {
+        "name": "AI-3002 Slide Bug ",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=71e5eda8-8c48-4eb9-898f-023eaed79427",
+        "course_identifier": "AI-3002"
+    },
+    {
+        "name": "DP-203 Slide Bugs v2",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=e7d5e123-7c8a-42cb-b68a-07a950356af5",
+        "course_identifier": "DP-203"
+    },
+    {
+        "name": "AZ-1008 Slide Bugs",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=6f6b157b-5393-4672-b45a-0b7335871aaa",
+        "course_identifier": "AZ-1008"
+    },
+    {
+        "name": "PL-300 Slide Bugs v2",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=92769baf-6b46-4775-9286-0f0ee86342ed",
+        "course_identifier": "PL-300"
+    },
+    {
+        "name": "SC-300 Slide Bugs v2",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=af008541-0185-43a9-9974-1366a8fbb57c",
+        "course_identifier": "SC-300"
+    },
+    {
+        "name": "AI-3016 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=d332dd8f-f533-4327-b3a7-1c3b27197d30",
+        "course_identifier": "AI-3016"
+    },
+    {
+        "name": "AZ-2001 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=8272d00e-8f4d-460d-b7a9-1e4aa0675799",
+        "course_identifier": "AZ-2001"
+    },
+    {
+        "name": "MS-4017 Slide Bugs",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=d9cc6692-ae0b-409f-b164-1e538a3482de",
+        "course_identifier": "MS-4017"
+    },
+    {
+        "name": "MS-4008 Slide Bugs",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=7c23b2b8-af34-4218-a60f-1f6739190a82",
+        "course_identifier": "MS-4008"
+    },
+    {
+        "name": "DP-3015 Slide Bug v2",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=4f93d85c-81c6-4c51-9ec5-201126d4ae3a",
+        "course_identifier": "DP-3015"
+    },
+    {
+        "name": "SC-5001 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=d95dba91-4eeb-4f59-87fe-230db581e206",
+        "course_identifier": "SC-5001"
+    },
+    {
+        "name": "MS-4009 Slide Bugs",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=de5b87c3-5f3a-4f2a-af25-2633e5467e32",
+        "course_identifier": "MS-4009"
+    },
+    {
+        "name": "MS-4007 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=29397282-52e1-4ee7-8c6e-28e85dd6baa9",
+        "course_identifier": "MS-4007"
+    },
+    {
+        "name": "AZ-700 Slides v2",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=e9820715-7f92-4791-a9c8-2c89432e8801",
+        "course_identifier": "AZ-700"
+    },
+    {
+        "name": "Generative AI End-User Courses with CoPilot CP",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=19c5a0ef-1736-49f3-95a5-2deff2eaa2fe",
+        "course_identifier": "Curriculum%20Page"
+    },
+    {
+        "name": "Azure Administrator CP ",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=7b116bff-4075-4dff-9328-2fa490bd05b1",
+        "course_identifier": "Curriculum%20Page"
+    },
+    {
+        "name": "Azure Architect CP",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=433c23d5-22e5-4c10-a2fa-329c19263d0b",
+        "course_identifier": "Curriculum%20Page"
+    },
+    {
+        "name": "MS-4006 Slide Bugs",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=bb12686a-3323-403f-8dc1-338122074034",
+        "course_identifier": "MS-4006"
+    },
+    {
+        "name": "Fabric Analytics CP",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=36f4c20c-5c58-411f-be46-3748e07c743a",
+        "course_identifier": "Curriculum%20Page"
+    },
+    {
+        "name": "AI-3018 Slide Bugs ",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=4bae3fa6-4d60-4a2d-a5e1-37eae1857441",
+        "course_identifier": "AI-3018"
+    },
+    {
+        "name": "DP-602 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=bf189a45-ebea-423c-b4a4-3a02dcece8bf",
+        "course_identifier": "DP-602"
+    },
+    {
+        "name": "AZ-104 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=d85ba0f6-8c7f-4ec9-9e0b-3ac4f82be54d",
+        "course_identifier": "AZ-104"
+    },
+    {
+        "name": "AZ-800 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=7af45109-d0e1-46e8-bce8-3b5ac16dd3fc",
+        "course_identifier": "AZ-800"
+    },
+    {
+        "name": "AZ-2002 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=38bfec69-3ec6-4fe2-af14-3e4525777b89",
+        "course_identifier": "AZ-2002"
+    },
+    {
+        "name": "MS-4005 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=885a15fd-d61d-4a1b-8e79-3ef4b71ae24e",
+        "course_identifier": "MS-4005"
+    },
+    {
+        "name": "MD-4011 Slide Bugs",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=b93e982c-2feb-49a4-a89b-4238f91fa366",
+        "course_identifier": "MD-4011"
+    },
+    {
+        "name": "AI-3003 Slide Bug ",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=da1c2305-a689-4929-a622-42ddbabf66d3",
+        "course_identifier": "AI-3003"
+    },
+    {
+        "name": "Data Scientist CP",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=663c1717-f455-4b36-9729-45929606ec19",
+        "course_identifier": "Curriculum%20Page"
+    },
+    {
+        "name": "AI-3004 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=0e64074d-abd3-4c29-8e99-498bbb8eaf7f",
+        "course_identifier": "AI-3004"
+    },
+    {
+        "name": "Azure AI Engineer CP",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=d0091926-7ec2-48d9-aa63-49a3f53bbbc3",
+        "course_identifier": "Curriculum%20Page"
+    },
+    {
+        "name": "SC-5008 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=ea3243d8-01f6-4180-9e97-4bbfa4edbd1f",
+        "course_identifier": "SC-5008"
+    },
+    {
+        "name": "DP-3021 Slide Bugs",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=371ab3e5-60b1-4fc7-a5fe-4d9234e5b963",
+        "course_identifier": "DP-3021"
+    },
+    {
+        "name": "DP-100 Slide Bugs v2",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=916beb8f-9b7d-462f-bf28-4f87b3452a8b",
+        "course_identifier": "DP-100"
+    },
+    {
+        "name": "DP-605 Slide Bugs",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=91fa5864-8d2a-435c-9d68-55caf2e1b65f",
+        "course_identifier": "DP-605"
+    },
+    {
+        "name": "DP-3020 Slide Bugs",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=1635230a-8bc6-4693-a42f-5a87aea2bbbd",
+        "course_identifier": "DP-3020"
+    },
+    {
+        "name": "SC-5004 Slide Bugs",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=8a4a1c69-d6ed-454d-b03c-5ab806c033e8",
+        "course_identifier": "SC-5004"
+    },
+    {
+        "name": "DP-500 Slide Bugs v2",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=73bc1035-e51e-46c8-8cc4-5fe4688dffcc",
+        "course_identifier": "DP-500"
+    },
+    {
+        "name": "AZ-305 Case Study Bug v2",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=136c7e60-2fd9-4a5b-bd9a-60d776db6bc8",
+        "course_identifier": "AZ-305"
+    },
+    {
+        "name": "AZ-2008 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=ccf214cd-039b-44bf-9ac4-69a110ccf998",
+        "course_identifier": "AZ-2008"
+    },
+    {
+        "name": "DP-604 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=afcb9fc0-31c9-42c6-ad17-6de97b8e93dc",
+        "course_identifier": "DP-604"
+    },
+    {
+        "name": "Az-2006 Slide Bugs",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=ccaf5e2f-bb4e-479f-8b79-6f183164bd4c",
+        "course_identifier": "AZ-2006"
+    },
+    {
+        "name": "AZ-1001 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=79f2fd80-98df-4c65-adf3-6faa5cf66ee7",
+        "course_identifier": "AZ-1001"
+    },
+    {
+        "name": "Database Administrator CP",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=aece7647-0abd-445b-9c2f-727089a073fa",
+        "course_identifier": "Curriculum%20Page"
+    },
+    {
+        "name": "Administering Windows Server Hybrid Core Infrastructure CP",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=cef75e33-b2c9-473e-9b6a-750d5f266fe1",
+        "course_identifier": "Curriculum%20Page"
+    },
+    {
+        "name": "AI-050 Slide Bug v2",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=4216c1cd-f91f-4aec-a9d9-82cb06442085",
+        "course_identifier": "AI-050"
+    },
+    {
+        "name": "AZ-1004 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=48ffcb07-442f-40a6-9ca7-8d28ccd51e4a",
+        "course_identifier": "AZ-1004"
+    },
+    {
+        "name": "MS-4010 Slide Bugs",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=9dc6e4fd-506b-435d-99d2-8e9d4c67f5b3",
+        "course_identifier": "MS-4010"
+    },
+    {
+        "name": "LEARNER INSIGHTS (REPLACE TAG)!!",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=54eb0567-2120-40b2-9185-8f70c6c45dee",
+        "course_identifier": "Learner%20Insights"
+    },
+    {
+        "name": "Azure Network Administrator CP",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=b36c1a66-84f0-4c2f-b8ff-8fd7c1cd1a42",
+        "course_identifier": "Curriculum%20Page"
+    },
+    {
+        "name": "DP-700 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=a4d051a6-bfe6-4704-8ba8-90ae5faf9191",
+        "course_identifier": "DP-700"
+    },
+    {
+        "name": "Security Operations Analyst CP",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=0b104b39-fdca-422d-8673-90b72c37659b",
+        "course_identifier": "Curriculum%20Page"
+    },
+    {
+        "name": "SC-5006 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=4833df9c-d6ac-4fc2-a502-928127704a17",
+        "course_identifier": "SC-5006"
+    },
+    {
+        "name": "SC-5007 Silde Bugs",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=a1398f5e-4247-475d-9987-94555aefb091",
+        "course_identifier": "SC-5007"
+    },
+    {
+        "name": "DP-3014 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=834f45e6-aff0-43f4-af20-952f5531b06e",
+        "course_identifier": "DP-3014"
+    },
+    {
+        "name": "DP-3012 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=55a2a0bc-782b-4c73-8086-9c3c4014e5d5",
+        "course_identifier": "DP-3012"
+    },
+    {
+        "name": "AZ-1002 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=247b0a96-2ae4-4ee1-a311-9d9b9c16bb96",
+        "course_identifier": "AZ-1002"
+    },
+    {
+        "name": "Cybersecurity Architect CP",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=40d3d6fb-f649-414c-85d8-a0bf8f8e6526",
+        "course_identifier": "Curriculum%20Page"
+    },
+    {
+        "name": "Azure Developer CP",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=3ac9e519-80e5-4a4a-b759-a12643f008f4",
+        "course_identifier": "Curriculum%20Page"
+    },
+    {
+        "name": "AZ-2005 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=16007751-e501-40d8-b45d-a2726e059655",
+        "course_identifier": "AZ-2005"
+    },
+    {
+        "name": "Information Protection and Compliance Administrator CP",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=524f7581-18d5-4777-b789-a55173f149af",
+        "course_identifier": "Curriculum%20Page"
+    },
+    {
+        "name": "SC-200 Slide Bugs v2",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=2939b535-3614-4cfa-aef2-a867e979228e",
+        "course_identifier": "SC-200"
+    },
+    {
+        "name": "DP-3001 Slide Bugs",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=82cc148a-a82e-4fa8-a803-a9d3a6cc8f12",
+        "course_identifier": "DP-3001"
+    },
+    {
+        "name": "AZ-801 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=6c766c10-5743-4e6e-b809-af3e2cfc8186",
+        "course_identifier": "AZ-801"
+    },
+    {
+        "name": "AZ-400 Slide Bug v2",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=55229d8f-1ae5-4107-8d15-af74e451c699",
+        "course_identifier": "AZ-400"
+    },
+    {
+        "name": "AZ-1010 Slide Bugs",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=7917d9e7-1598-4a71-b801-b283c9a0994b",
+        "course_identifier": "AZ-1010"
+    },
+    {
+        "name": "AZ-500 Slide Bug v2",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=8b0a49eb-3577-4cc9-a998-b2d74dcd2d5c",
+        "course_identifier": "AZ-500"
+    },
+    {
+        "name": "DP-3011 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=5794a5c2-2ad5-457e-97b0-b4407ac7c285",
+        "course_identifier": "DP-3011"
+    },
+    {
+        "name": "Data Engineer CP",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=9ac12996-3985-42e9-9eef-b5778da8c252",
+        "course_identifier": "Curriculum%20Page"
+    },
+    {
+        "name": "AI-EX Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=70973a9f-3549-4cc4-b662-bc5471e938e4",
+        "course_identifier": "AI-EX"
+    },
+    {
+        "name": "AI-102 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=785aa3af-fb1e-46d8-baf6-bd4f077493b5",
+        "course_identifier": "AI-102"
+    },
+    {
+        "name": "AZ-1003 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=1ee99537-8c0a-4be5-b924-c000cae6b948",
+        "course_identifier": "AZ-1003"
+    },
+    {
+        "name": "AZ-2007 Slide Bugs ",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=49b87e2f-9464-4bdd-a98f-c4fb8a25cc14",
+        "course_identifier": "AZ-2007"
+    },
+    {
+        "name": "SC-100 Slide Bugs v2",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=5789f632-d59d-4572-a57c-c4fe3425eb56",
+        "course_identifier": "SC-100"
+    },
+    {
+        "name": "AZ-1005 Slide Bugs",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=48add6bc-5fc9-4018-b457-cc0988c473a3",
+        "course_identifier": "AZ-1005"
+    },
+    {
+        "name": "SC-5002 Slide Bug ",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=9704c02e-7e57-40e1-8fe0-cedb00b7bc52",
+        "course_identifier": "SC-5002"
+    },
+    {
+        "name": "SC-400 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=fc4dca8b-28a0-4960-8bf9-d690e22c6872",
+        "course_identifier": "SC-400"
+    },
+    {
+        "name": "DP-3007 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=e3299829-5b8a-4ee3-a899-db714cc8aae0",
+        "course_identifier": "DP-3007"
+    },
+    {
+        "name": "Security Technologies CP",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=f6844aef-dede-4b8d-881d-df9cd2ac6ea5",
+        "course_identifier": "Curriculum%20Page"
+    },
+    {
+        "name": "DP-600 Slide Bugs",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=487daeb8-86da-457d-934f-e67efbbb3fb4",
+        "course_identifier": "DP-600"
+    },
+    {
+        "name": "DP-090 Slide Bugs v2",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=93a9a9bb-72fa-49dd-8ba5-e79fb497be48",
+        "course_identifier": "DP-090"
+    },
+    {
+        "name": "SC-5003 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=ca6117cc-4e5d-4ae4-9c6c-e7e8199aaf9d",
+        "course_identifier": "SC-5003"
+    },
+    {
+        "name": "AI-3017 Slide Bugs",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=ae31d25b-f526-42f1-a1ea-ec04cacbff93",
+        "course_identifier": "AI-3017"
+    },
+    {
+        "name": "AZ-305 Slide Bug v2",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=7ff01d58-5579-4a51-a634-ed3f4367f67f",
+        "course_identifier": "AZ-305"
+    },
+    {
+        "name": "MS-4014 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=45a291db-a4b8-413f-95d2-ed415589dcd8",
+        "course_identifier": "MS-4014"
+    },
+    {
+        "name": "Identity and Access Administrator CP",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=02174812-c5aa-43ce-be69-ed5bc510bf85",
+        "course_identifier": "Curriculum%20Page"
+    },
+    {
+        "name": "DP-300 Slide Bugs v2",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=f028bcb6-4cc9-4484-b144-ed6cdd3c7c97",
+        "course_identifier": "DP-300"
+    },
+    {
+        "name": "AZ-140 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=02e2b336-9cf1-467e-aee5-f20ea3a5b0b3",
+        "course_identifier": "AZ-140"
+    },
+    {
+        "name": "AI-3019 Slide Bugs",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=5f913403-9fca-4abc-b8a2-f3bcb358be85",
+        "course_identifier": "AI-3019"
+    },
+    {
+        "name": "MS-4015",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=c73508a2-627f-428f-960c-f453571ebbba",
+        "course_identifier": "MS-4015"
+    },
+    {
+        "name": "Azure DevOps Engineer CP",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=ff26c151-9b74-4c43-9f0e-f488fe665dd0",
+        "course_identifier": "Curriculum%20Page"
+    },
+    {
+        "name": "DP-603 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=d1feb441-8dc4-40eb-b0bd-f68f4c6fb972",
+        "course_identifier": "DP-603"
+    },
+    {
+        "name": "DP-601 Slide bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=0feaafcd-f73e-436c-8c87-f8c6dc8c82fa",
+        "course_identifier": "DP-601"
+    },
+    {
+        "name": "AI-3022 Slide Bugs",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=6f66c139-8eb7-4c04-ad76-fa62cec7f30b",
+        "course_identifier": "AI-3022"
+    },
+    {
+        "name": "AZ-204 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=2f22d015-f0c5-4a8d-9820-fbd55e86a939",
+        "course_identifier": "AZ-204"
+    },
+    {
+        "name": "AZ-1007 Slide Bug",
+        "template_url": "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=9d611e3a-4cb3-4acc-8370-ff8190e588c0",
+        "course_identifier": "AZ-1007"
+    }
+]

@@ -2,6 +2,7 @@
 import requests
 import os
 import base64
+import json
 
 # Replace with your Azure DevOps organization, project, and personal access token
 organization = 'microsoftdigitallearning'
@@ -35,9 +36,9 @@ if response.status_code == 200:
         # if "workItemTypeName" is "SE Bug"
         if template['workItemTypeName'] == "SE Bug":
             print(f"Template Name: {template['name']}")
-            # print(f"Template URL: {template['url']}")
-            # get the identifier on the URL (between /courseware and /_apis)
-            identifier = template['url'].split('/Courseware/')[1].split('/_apis')[0]
+            print(f"Template Info URL: {template['url']}")
+            # get the identifier on the URL (after  /templates/
+            identifier = template['url'].split("/templates/")[1]
             template_link = "https://microsoftdigitallearning.visualstudio.com/Courseware/_workitems/create/SE%20Bug?templateId=" + identifier
             print(f"Template Link: {template_link}")
             # Do a request to the "url" and get field "Custom.CourseIdentifier" under fields
@@ -62,4 +63,9 @@ else:
 
 # Print the work item templates
 print(work_item_templates)
+
+# export as json file
+with open('work_item_templates.json', 'w') as f:
+    json.dump(work_item_templates, f, indent=4)
+
  
