@@ -1,0 +1,7 @@
+
+@organization = "microsoftdigitallearning"
+@project = "Courseware"
+
+GET https://{{organization}}.visualstudio.com/{{project}}/_apis/wit/templates?api-version=6.0
+Authorization: Basic {{$processEnv ADO_PAT}}
+Content-Type: application/json
